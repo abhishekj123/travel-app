@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/travelapp/static/css/main.8481a272.chunk.css",
+    "main.js": "/travelapp/static/js/main.c1ec75cb.chunk.js",
+    "main.js.map": "/travelapp/static/js/main.c1ec75cb.chunk.js.map",
+    "runtime-main.js": "/travelapp/static/js/runtime-main.02e4965b.js",
+    "runtime-main.js.map": "/travelapp/static/js/runtime-main.02e4965b.js.map",
+    "static/css/2.383c0125.chunk.css": "/travelapp/static/css/2.383c0125.chunk.css",
+    "static/js/2.c4d0ad54.chunk.js": "/travelapp/static/js/2.c4d0ad54.chunk.js",
+    "static/js/2.c4d0ad54.chunk.js.map": "/travelapp/static/js/2.c4d0ad54.chunk.js.map",
+    "static/js/3.165480d3.chunk.js": "/travelapp/static/js/3.165480d3.chunk.js",
+    "static/js/3.165480d3.chunk.js.map": "/travelapp/static/js/3.165480d3.chunk.js.map",
+    "index.html": "/travelapp/index.html",
+    "static/css/2.383c0125.chunk.css.map": "/travelapp/static/css/2.383c0125.chunk.css.map",
+    "static/css/main.8481a272.chunk.css.map": "/travelapp/static/css/main.8481a272.chunk.css.map",
+    "static/js/2.c4d0ad54.chunk.js.LICENSE.txt": "/travelapp/static/js/2.c4d0ad54.chunk.js.LICENSE.txt",
+    "static/media/art_1.8de95a3e.png": "/travelapp/static/media/art_1.8de95a3e.png",
+    "static/media/hiking.76a069e0.jpg": "/travelapp/static/media/hiking.76a069e0.jpg",
+    "static/media/kuttanad.8fd17d44.jpg": "/travelapp/static/media/kuttanad.8fd17d44.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.02e4965b.js",
+    "static/css/2.383c0125.chunk.css",
+    "static/js/2.c4d0ad54.chunk.js",
+    "static/css/main.8481a272.chunk.css",
+    "static/js/main.c1ec75cb.chunk.js"
+  ]
+}
